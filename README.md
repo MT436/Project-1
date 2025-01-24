@@ -1,6 +1,6 @@
 # **Project-1**
 
-bookstore-microservices/
+bookstore-microservices/ |
 ├── auth-service/
 │   ├── app.py
 │   ├── Dockerfile
