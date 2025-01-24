@@ -22,9 +22,9 @@ The app is composed of three independent microservices:
 ## Folder Structure
 
 ```
-bookstore-microservices/
-├── auth-service/
-│   ├── app.py
+[bookstore-microservices/]
+[├── auth-service]
+[│   ├── app.py]
 │   ├── Dockerfile
 ├── book-service/
 │   ├── app.py
