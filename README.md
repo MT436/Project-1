@@ -1,3 +1,4 @@
+---markdown
 To paste the content of the Python microservices example into a `README.md` file on GitHub, follow these steps:
 
 ### 1. **Create a `README.md` File:**
@@ -7,7 +8,7 @@ If you don't already have a `README.md` file in your project, you can create one
 To preserve the formatting and make the content readable, you should use **Markdown syntax**. Here's how to structure your `README.md` file for the microservices project.
 
 ### Example `README.md`:
-
+---
 ```markdown
 # Bookstore Microservices
 
