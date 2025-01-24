@@ -22,17 +22,17 @@ The app is composed of three independent microservices:
 ## Folder Structure
 
 ```
-- [bookstore-microservices/]
-- [├── auth-service]
-- [│   ├── app.py]
-│   ├── Dockerfile
-├── book-service/
-│   ├── app.py
-│   ├── Dockerfile
-├── order-service/
-│   ├── app.py
-│   ├── Dockerfile
-├── docker-compose.yml
+- bookstore-microservices/
+- ├── auth-service
+- │   ├── app.py
+- │   ├── Dockerfile
+- ├── book-service/
+- │   ├── app.py
+- │   ├── Dockerfile
+- ├── order-service/
+- │   ├── app.py
+- │   ├── Dockerfile
+- ├── docker-compose.yml
 ```
 
 ## Microservices Code
